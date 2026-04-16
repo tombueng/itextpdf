@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>itext-pdfa</artifactId>
-  <version>5.5.10-SNAPSHOT</version>
+  <version>5.5.13.3</version>
   <packaging>jar</packaging>
 
   <name>iText PDF/A</name>
@@ -89,7 +89,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.8.2</version>
+      <version>4.13.1</version>
       <type>jar</type>
       <scope>test</scope>
     </dependency>
